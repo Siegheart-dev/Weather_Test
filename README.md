@@ -1,5 +1,4 @@
-## React Redux Weather App
-https://mochalinea.github.io/react_redux_weather_app/
+
 
 ### Приложение позволяет:
 - находить города по названию и получать для них данные о погоде;
